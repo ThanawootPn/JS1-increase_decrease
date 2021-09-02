@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(202, 227, 255);
+}
+
+h1 {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: teal;
+    font-size: 40px;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+.box {
+    color: red;
+    font-size: 1.2rem;
+}
